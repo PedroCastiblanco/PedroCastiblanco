@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hola, soy Pedro Alejandro Castiblanco Castañeda
 
-<!--
-**PedroCastiblanco/PedroCastiblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas  
+💻 Apasionado por el desarrollo backend   
+🚀 Actualmente aprendiendo Flask, conexion de backend y frontend.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+- Lenguajes: Python, Java, SQL, Postgrest  
+- Frameworks: Flask  
+- Herramientas: Git, GitHub, VS Code  
+
+---
+
+## 📌 Proyectos destacados
+
+🔹 API REST de Pokémon  
+Desarrollada con Flask, permite consultar información de Pokémon con endpoints personalizados.  
+
+🔹 Sistema de gestión (en proceso)  
+Aplicación enfocada en la organización y administración de datos.  
+
+---
+
+## 📈 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contacto
+
+- Correo: pcastblanco@unal.edu.co
+  
